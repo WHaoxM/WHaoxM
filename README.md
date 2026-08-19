@@ -2,7 +2,7 @@
 
 ### Developer & Machine Learning Learner · Embodied AI Researcher @ AI Lab · Enjoying Building Cool Stuff
 
-[NeuTronM](https://github.com/whaoxm)
+[![NeuTronM](https://avatars.githubusercontent.com/u/175631749?u=094d7d315dab638969ba5cc8ee170f273cb942ab&v=4&size=64)](https://github.com/whaoxm)
 
 * **OPC (One-Person Company) Builder**, building AI-native products from idea to deployment
 * Embodied AI Research Member at **AI Lab**, currently working on **VLA** and **AgentOS**
