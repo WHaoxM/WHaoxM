@@ -1,87 +1,72 @@
 <p align="right"><a href="./README.md">简体中文</a> · <strong>English</strong></p>
 
-<div align="center">
+# Hi, I'm Neu.
 
-<img src="./assets/neu-pixel.webp" width="104" alt="Neu's pixel portrait">
+<picture><source media="(min-width: 600px)" srcset="./assets/builder-vignette.png" width="245"><img align="right" src="./assets/builder-vignette.png" width="100" alt="Pixel illustration of Neu at his builder's desk"></picture>
 
-# Hi, I’m NeuTronM — you can call me Neu
+**Turning ideas into products, and bringing questions back to research.**
 
-**AI Product Builder · Agents · Embodied AI · Machine Learning**
+I'm NeuTronM, an AI product builder working across agents, embodied intelligence and machine learning. I care about craft: the aesthetics, code and details that make something worth using.
 
-Turning ideas into useful products, while exploring algorithms, models and intelligent systems.
+[What I'm building](#what-im-building)　·　[Research & recognition](#research--recognition)　·　[Get in touch](mailto:freezingm2020@outlook.com)
 
-[Projects](#selected-work) · [Research & recognition](#research--recognition) · [About](#about-me) · [Contact](mailto:freezingm2020@outlook.com)
+<br clear="right">
 
-</div>
+## What I'm building
 
----
+From how people and AI think together to how agents enter the real world.
 
-## Selected work
+<picture><source media="(min-width: 600px)" srcset="./assets/trace-threads.png" width="150"><img align="right" src="./assets/trace-threads.png" width="65" alt="Trace concept illustration: branching thought and human–agent collaboration"></picture>
 
-<table>
-<tr><td valign="top">
+<h3>Trace<br><sub>Human–agent collaboration · In exploration</sub></h3>
 
-<h3>Trace</h3>
-<p>Exploring continuous human–agent collaboration: connecting thinking, knowledge and work around the same subject, with room to branch, compare and continue.</p>
-<sub>Human–agent collaboration · Thinking & knowledge · Product exploration</sub>
+Exploring how people, knowledge and agents stay connected around the same work: ideas can branch, and understanding and work can be picked up again.
 
-</td></tr>
-<tr><td valign="top">
+Beyond recording conversations, Trace explores thinking, knowledge formation and collaboration as activities that can happen together.
 
-<h3><a href="https://github.com/WHaoxM/cpa-agent">CPA-Agent · 职导星图</a></h3>
-<p>A multi-agent career-planning product for university students, covering capability profiles, job matching and career development.</p>
-<p><strong>Already used by customers and in the paid stage.</strong></p>
-<sub>Multi-agent · Career planning · Knowledge graphs</sub><br>
-<a href="https://www.xingtulabs.top/">Website</a> · <a href="https://github.com/WHaoxM/cpa-agent">Repository</a>
+<br clear="right">
 
-</td></tr>
-<tr><td valign="top">
+<picture><source media="(min-width: 600px)" srcset="./assets/career-stars.png" width="150"><img align="right" src="./assets/career-stars.png" width="65" alt="Illustration of a celestial compass, inspired by CPA-Agent"></picture>
 
-<h3><a href="https://www.tomeet.chat/">ToMeet</a></h3>
-<p>A social agent that gets to know users through ongoing conversation and helps people form connections, learning from feedback along the way.</p>
-<sub>Conversational agent · Social connection · AdventureX 2026 Photon Track First Prize</sub><br>
-<a href="https://www.tomeet.chat/">Website</a> · <a href="https://github.com/toMeetADX/TOMEET_Backend">Repository</a>
+<h3><a href="https://www.xingtulabs.top/">CPA-Agent · Career Star Map</a><br><sub>AI product · Commercialization</sub></h3>
 
-</td></tr>
-<tr><td valign="top">
+A multi-agent career-planning product for university students, connecting skill profiles, job matching and career development.
 
-<h3>GoMindOS</h3>
-<p>An embodied intelligence system for legged and wheeled robots, exploring how AI agents connect perception, decision-making and action.</p>
-<sub>Embodied AI · AgentOS · Legged and wheeled robots</sub>
+**In use by customers and entering its paid stage.**<br>[Website ↗](https://www.xingtulabs.top/)　/　[Repository ↗](https://github.com/WHaoxM/cpa-agent)
 
-</td></tr>
-<tr><td valign="top">
+<br clear="right">
 
-<h3><a href="https://www.zhilvtravel.com/">Zhilv Travel · 文数智旅</a></h3>
-<p>An AI travel product for agencies focused on inbound tourism, exploring the journey from overseas customer acquisition to intelligent service and business conversion.</p>
-<sub>AI product · Inbound tourism · Real-world applications</sub><br>
-<a href="https://www.zhilvtravel.com/">Website</a>
+<h3><a href="https://www.tomeet.chat/">ToMeet</a><br><sub>Social agent · AdventureX 2026 Photon Track First Prize</sub></h3>
 
-</td></tr>
-</table>
+A long-term conversational agent that helps people connect through ongoing understanding and feedback. [Website ↗](https://www.tomeet.chat/) · [Repository ↗](https://github.com/toMeetADX/TOMEET_Backend)
+
+<h3>GoMindOS<br><sub>Embodied AI</sub></h3>
+
+Exploring how AI agents connect perception, decision-making and action for legged and wheeled robots.
+
+<h3><a href="https://www.zhilvtravel.com/">文数智旅</a><br><sub>AI × inbound tourism</sub></h3>
+
+Exploring the service journey for travel agencies, from overseas customer acquisition through intelligent assistance to closing a sale. [Website ↗](https://www.zhilvtravel.com/) · [Repository ↗](https://github.com/SyncingTravel/XT_MVP)
 
 ## Research & recognition
 
-### Research
+**Research**　Building depth in algorithms and models, with interests in machine learning and embodied AI.
 
-- [**FACDNet: A Frequency-Aware Cross-Layer Network for Remote Sensing Change Detection**](https://www.mdpi.com/2079-9292/15/11/2416) — *Electronics*, 2026.
-- A first-author conference paper is currently under submission.
+- [FACDNet: A Frequency-Aware Cross-Layer Network for Remote Sensing Change Detection](https://www.mdpi.com/2079-9292/15/11/2416) — *Electronics*, 2026
+- Another first-author conference paper is under submission.
 
-### Competitions
+**Competitions**
 
-- **AdventureX 2026** — First Prize, Photon Track
-- **Global Campus Artificial Intelligence Algorithm Elite Competition** — National First Prize
-- **China Undergraduate Service Outsourcing Innovation & Entrepreneurship Competition** — National Third Prize
+- **AdventureX 2026** — Photon Track First Prize
+- **Global Campus AI Algorithm Elite Competition** — National First Prize
+- **China University Students Service Outsourcing Innovation and Entrepreneurship Competition** — National Third Prize
 
-## About me
+## A little more about me
 
-- **OPC Builder** exploring AI-native products and entrepreneurship.
-- **Embodied AI research member at AI Lab**, exploring Vision-Language-Action (VLA) and AgentOS.
-- Former **full-stack developer** at a software company.
-- **Computer Science undergraduate** at Sichuan University of Science & Engineering (SUSE).
+OPC builder · AI Lab embodied intelligence researcher exploring VLA and AgentOS<br>Former full-stack engineer · Computer science undergraduate at Sichuan University of Science & Engineering
 
-I’m refining my eye for design, taking responsibility for the quality and details of delivery, and learning to write elegant, simple code, while continuing research in algorithms and models.
+I want the things I make not only to work, but to be worth returning to: taking responsibility for delivery, developing an eye for detail and writing elegant, concise code.
 
-**Languages & tools:** Python · Java · Flask · FastAPI · PyTorch · MySQL · PostgreSQL · Redis · Docker · Git · Linux · VS Code · HTML · CSS · JavaScript · TypeScript
+**Tools**　Python · Java · Flask · FastAPI · PyTorch · MySQL · PostgreSQL · Redis · Docker · Git · Linux · VS Code · HTML · CSS · JavaScript · TypeScript
 
-**Contact:** [freezingm2020@outlook.com](mailto:freezingm2020@outlook.com)
+**Contact**　[freezingm2020@outlook.com](mailto:freezingm2020@outlook.com)
