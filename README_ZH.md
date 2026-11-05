@@ -8,39 +8,31 @@
 
 ### 01 / 正在做的产品
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/trace.svg" alt="Trace — 人与 Agent 协作" width="100%">
-<p>探索人与 Agent 的持续协作，让思考、知识与工作围绕同一件事连接起来，支持非线性的探索、交接与接续。</p>
-<sub>思考 · 协作 · 探索中</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/WHaoxM/cpa-agent"><img src="./assets/cpa.svg" alt="CPA-Agent 职导星图 — AI 职业规划产品" width="100%"></a>
-<p>面向大学生职业规划的多智能体产品，连接能力画像、人岗匹配与职业发展。目前已有客户使用，并进入付费阶段。</p>
-<a href="https://github.com/WHaoxM/cpa-agent">项目仓库 ↗</a> &nbsp; · &nbsp; <a href="https://whaoxm.github.io/cpa-xingtu/">前端演示 ↗</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/toMeetADX/TOMEET_Backend"><img src="./assets/tomeet.svg" alt="ToMeet — 社交 Agent" width="100%"></a>
-<p>一个可以长期对话的社交 Agent，通过持续了解与互动反馈，帮助人建立连接。</p>
-<a href="https://github.com/toMeetADX/TOMEET_Backend">项目仓库 ↗</a> &nbsp; · &nbsp; <sub>AdventureX 2026 · Photon 赛道一等奖</sub>
-</td>
-<td width="50%" valign="top">
-<img src="./assets/gomind.svg" alt="GoMindOS — 面向足式和轮式机器人的具身智能系统" width="100%">
-<p>面向足式和轮式机器人的具身智能系统，探索 AI Agent 与真实环境、感知、决策和行动的连接。</p>
-<sub>机器人 · 具身智能</sub>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<a href="https://www.zhilvtravel.com/"><img src="./assets/travel.svg" alt="文数智旅 — AI 文旅产品" width="100%"></a>
-<p>面向旅行社的 AI 文旅产品，聚焦入境游，探索从海外获客到智能承接与业务成交的服务链路。</p>
-<a href="https://www.zhilvtravel.com/">访问官网 ↗</a>
-</td>
-</tr>
-</table>
+![Trace — 人与 Agent 协作](./assets/trace.svg)
+
+探索人与 Agent 的持续协作，让思考、知识与工作围绕同一件事连接起来，支持非线性的探索、交接与接续。
+
+[![CPA-Agent 职导星图 — AI 职业规划产品](./assets/cpa.svg)](https://github.com/WHaoxM/cpa-agent)
+
+面向大学生职业规划的多智能体产品，连接能力画像、人岗匹配与职业发展。目前已有客户使用，并进入付费阶段。
+
+[项目仓库 ↗](https://github.com/WHaoxM/cpa-agent) · [前端演示 ↗](https://whaoxm.github.io/cpa-xingtu/)
+
+[![ToMeet — 社交 Agent](./assets/tomeet.svg)](https://github.com/toMeetADX/TOMEET_Backend)
+
+一个可以长期对话的社交 Agent，通过持续了解与互动反馈，帮助人建立连接。
+
+[项目仓库 ↗](https://github.com/toMeetADX/TOMEET_Backend) · AdventureX 2026 · Photon 赛道一等奖
+
+![GoMindOS — 面向足式和轮式机器人的具身智能系统](./assets/gomind.svg)
+
+面向足式和轮式机器人的具身智能系统，探索 AI Agent 与真实环境、感知、决策和行动的连接。
+
+[![文数智旅 — AI 文旅产品](./assets/travel.svg)](https://www.zhilvtravel.com/)
+
+面向旅行社的 AI 文旅产品，聚焦入境游，探索从海外获客到智能承接与业务成交的服务链路。
+
+[访问官网 ↗](https://www.zhilvtravel.com/)
 
 ### 02 / 科研
 

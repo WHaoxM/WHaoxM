@@ -8,39 +8,31 @@ I’m also continuing research in algorithms and models, while refining my eye f
 
 ### 01 / SELECTED WORK
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/trace.svg" alt="Trace — human and agent collaboration" width="100%">
-<p>Exploring continuous human–agent collaboration: connecting thinking, knowledge, and work around the same subject, with room for non-linear exploration and continuation.</p>
-<sub>THINKING · COLLABORATION · EXPLORING</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/WHaoxM/cpa-agent"><img src="./assets/cpa.svg" alt="CPA-Agent — AI career planning product" width="100%"></a>
-<p>A multi-agent career-planning product for university students, connecting capability profiles, job matching, and career development. Already used by customers and in the paid stage.</p>
-<a href="https://github.com/WHaoxM/cpa-agent">Repository ↗</a> &nbsp; · &nbsp; <a href="https://whaoxm.github.io/cpa-xingtu/">Frontend demo ↗</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/toMeetADX/TOMEET_Backend"><img src="./assets/tomeet.svg" alt="ToMeet — social agent" width="100%"></a>
-<p>A social agent that gets to know users through ongoing conversation and helps people form connections, learning from feedback along the way.</p>
-<a href="https://github.com/toMeetADX/TOMEET_Backend">Repository ↗</a> &nbsp; · &nbsp; <sub>AdventureX 2026 · Photon Track First Prize</sub>
-</td>
-<td width="50%" valign="top">
-<img src="./assets/gomind.svg" alt="GoMindOS — embodied AI for legged and wheeled robots" width="100%">
-<p>An embodied intelligence system for legged and wheeled robots, exploring how AI agents connect real-world perception, decision-making, and action.</p>
-<sub>ROBOTICS · EMBODIED AI</sub>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<a href="https://www.zhilvtravel.com/"><img src="./assets/travel.svg" alt="Zhilv Travel — AI and travel" width="100%"></a>
-<p>An AI travel product for travel agencies focused on inbound tourism, exploring the journey from overseas customer acquisition to intelligent service and business conversion.</p>
-<a href="https://www.zhilvtravel.com/">Official website ↗</a>
-</td>
-</tr>
-</table>
+![Trace — human and agent collaboration](./assets/trace.svg)
+
+Exploring continuous human–agent collaboration: connecting thinking, knowledge, and work around the same subject, with room for non-linear exploration and continuation.
+
+[![CPA-Agent — AI career planning product](./assets/cpa.svg)](https://github.com/WHaoxM/cpa-agent)
+
+A multi-agent career-planning product for university students, connecting capability profiles, job matching, and career development. Already used by customers and in the paid stage.
+
+[Repository ↗](https://github.com/WHaoxM/cpa-agent) · [Frontend demo ↗](https://whaoxm.github.io/cpa-xingtu/)
+
+[![ToMeet — social agent](./assets/tomeet.svg)](https://github.com/toMeetADX/TOMEET_Backend)
+
+A social agent that gets to know users through ongoing conversation and helps people form connections, learning from feedback along the way.
+
+[Repository ↗](https://github.com/toMeetADX/TOMEET_Backend) · AdventureX 2026 · Photon Track First Prize
+
+![GoMindOS — embodied AI for legged and wheeled robots](./assets/gomind.svg)
+
+An embodied intelligence system for legged and wheeled robots, exploring how AI agents connect real-world perception, decision-making, and action.
+
+[![Zhilv Travel — AI and travel](./assets/travel.svg)](https://www.zhilvtravel.com/)
+
+An AI travel product for travel agencies focused on inbound tourism, exploring the journey from overseas customer acquisition to intelligent service and business conversion.
+
+[Official website ↗](https://www.zhilvtravel.com/)
 
 ### 02 / RESEARCH
 
