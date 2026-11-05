@@ -1,58 +1,61 @@
 <p align="right"><a href="./README.md">简体中文</a> · <strong>English</strong></p>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/v2/hero-en-mobile.png">
-  <img alt="NeuTronM: AI builder, building products and exploring intelligence." src="./assets/v2/hero-en-desktop.png" width="100%">
-</picture>
+# NeuTronM
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/v2/intro-en-mobile.png">
-  <img alt="I build AI products and agents, and explore embodied intelligence, machine learning, and entrepreneurship, while practicing design, thoughtful delivery, and research." src="./assets/v2/intro-en-desktop.png" width="100%">
-</picture>
+**AI Product Builder · Agents · Embodied AI · Machine Learning**
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/v2/work-en-mobile.png">
-  <img alt="Selected work: Trace, CPA-Agent, ToMeet, GoMindOS, and Zhilv Travel. CPA-Agent has customers and is in the paid stage." src="./assets/v2/work-en-desktop.png" width="100%">
-</picture>
+Hi, I’m Neu. I like turning ideas into products people can actually use, and I’m exploring entrepreneurship and bringing products into real-world settings.
 
-**Explore** &nbsp; [CPA-Agent repository](https://github.com/WHaoxM/cpa-agent) · [CPA-Agent website](https://www.xingtulabs.top/) · [ToMeet website](https://www.tomeet.chat/) · [ToMeet repository](https://github.com/toMeetADX/TOMEET_Backend) · [Zhilv Travel](https://www.zhilvtravel.com/)
+Alongside research in algorithms and models, I’m refining my eye for design, taking responsibility for the details of delivery, and learning to write elegant, simple code.
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/v2/research-en-mobile.png">
-  <img alt="Research and recognition: FACDNet in Electronics 2026, a first-author conference paper under submission, AdventureX 2026 Photon Track First Prize, a National First Prize and a National Third Prize." src="./assets/v2/research-en-desktop.png" width="100%">
-</picture>
+## What I’m building
 
-[Read the FACDNet paper ↗](https://www.mdpi.com/2079-9292/15/11/2416)
+### Trace
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/v2/craft-en-mobile.png">
-  <img alt="Practicing design, thoughtful delivery and elegant, simple code." src="./assets/v2/craft-en-desktop.png" width="100%">
-</picture>
+Exploring continuous human–agent collaboration: connecting thinking, knowledge and work around the same subject, with room to branch, compare and continue.
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/v2/about-en-mobile.png">
-  <img alt="OPC builder, embodied AI research member, former full-stack engineer, and computer science undergraduate." src="./assets/v2/about-en-desktop.png" width="100%">
-</picture>
+### CPA-Agent · 职导星图
 
-[Get in touch ↗](mailto:freezingm2020@outlook.com)
+A multi-agent career-planning product for university students, covering capability profiles, job matching and career development. It is already used by customers and has entered the paid stage.
 
-<details>
-<summary>Accessible text</summary>
+[Repository](https://github.com/WHaoxM/cpa-agent) · [Website](https://www.xingtulabs.top/)
 
-I’m NeuTronM, or Neu. I build AI products and agents, and explore embodied intelligence, machine learning, and entrepreneurship, while refining my design taste, delivery, code, and research skills.
+### ToMeet
 
-- **Trace**: Exploring continuous human–agent collaboration, connecting thinking, knowledge and work with room to branch and continue.
-- **CPA-Agent**: A multi-agent career-planning product for university students, with customers and paid use.
-- **ToMeet**: A social agent using ongoing conversation and feedback to help people connect.
-- **GoMindOS**: Embodied intelligence for legged and wheeled robots, connecting agents to perception, decision and action.
-- **Zhilv Travel**: An AI travel product for agencies focused on inbound tourism, from acquisition to service and conversion.
+A social agent that gets to know users through ongoing conversation and helps people form connections, learning from feedback along the way.
 
-**Research**: [FACDNet](https://www.mdpi.com/2079-9292/15/11/2416), Electronics, 2026; a first-author conference paper is under submission.
+AdventureX 2026 · First Prize, Photon Track
 
-**Competitions**: AdventureX 2026 Photon Track First Prize; Global Campus Artificial Intelligence Algorithm Elite Competition National First Prize; China Undergraduate Service Outsourcing Innovation & Entrepreneurship Competition National Third Prize.
+[ToMeet website](https://www.tomeet.chat/) · [Repository](https://github.com/toMeetADX/TOMEET_Backend)
 
-**Background**: OPC builder; embodied AI research member at AI Lab exploring VLA and AgentOS; former full-stack engineer; computer science undergraduate at Sichuan University of Science & Engineering.
+### GoMindOS
 
-**Tools**: Python · Java · Flask · FastAPI · PyTorch · MySQL · PostgreSQL · Redis · Docker · Git · Linux · VS Code · HTML · CSS · JavaScript · TypeScript
+An embodied intelligence system for legged and wheeled robots, exploring how AI agents connect perception, decision-making and action.
 
-</details>
+### Zhilv Travel · 文数智旅
+
+An AI travel product for agencies focused on inbound tourism, exploring the journey from overseas customer acquisition to intelligent service and business conversion.
+
+[Zhilv Travel website](https://www.zhilvtravel.com/)
+
+## Research
+
+- [FACDNet: A Frequency-Aware Cross-Layer Network for Remote Sensing Change Detection](https://www.mdpi.com/2079-9292/15/11/2416) — *Electronics*, 2026.
+- A first-author conference paper is currently under submission.
+
+## Competitions & recognition
+
+- **AdventureX 2026** — First Prize, Photon Track
+- **Global Campus Artificial Intelligence Algorithm Elite Competition** — National First Prize
+- **China Undergraduate Service Outsourcing Innovation & Entrepreneurship Competition** — National Third Prize
+
+## About me
+
+- **OPC Builder** exploring AI-native products and entrepreneurship.
+- **Embodied AI research member at AI Lab**, exploring Vision-Language-Action (VLA) and AgentOS.
+- Former **full-stack developer** at a software company.
+- **Computer Science undergraduate** at Sichuan University of Science & Engineering (SUSE).
+
+**Languages & tools:** Python · Java · Flask · FastAPI · PyTorch · MySQL · PostgreSQL · Redis · Docker · Git · Linux · VS Code · HTML · CSS · JavaScript · TypeScript
+
+**Contact:** [freezingm2020@outlook.com](mailto:freezingm2020@outlook.com)
