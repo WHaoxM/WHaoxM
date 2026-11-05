@@ -1,83 +1,70 @@
-<p align="right">
-  <a href="./README.md">English</a>
-  ·
-  <strong>简体中文</strong>
-</p>
+<p align="right"><a href="./README.md">English</a> · <strong>简体中文</strong></p>
 
-<div align="center">
+![NeuTronM — AI Builder：构建产品，探索智能，持续打磨创造的能力。](./assets/hero.svg)
 
-# Hi，我是 **NeuTronM**，也可以叫我 **Neu** 👋
+你好，我是 **NeuTronM**，也可以叫我 **Neu**。我关注 AI 产品、Agent 研发、具身智能与机器学习，也在探索创业。我希望把想法做成真实可用的产品。
 
-### 开发者 · 机器学习学习者 · 具身智能研究成员 · 热衷于 Building Cool Stuff
+我持续做科研，打磨算法与模型能力；也在培养产品审美，对交付的细节负责，学习把代码写得更优雅、更简洁。
 
-[![NeuTronM](https://avatars.githubusercontent.com/u/175631749?u=094d7d315dab638969ba5cc8ee170f273cb942ab&v=4&size=96)](https://github.com/whaoxm)
-
-</div>
-
-我喜欢把想法变成真正有用的产品，覆盖产品设计、系统架构、开发实现与部署上线。
-
-- **OPC（One-Person Company）Builder**：专注于 AI Native 产品的独立构建
-- **AI Lab 具身智能研究成员**：目前探索 **Vision-Language-Action（VLA）** 与 **AgentOS**
-- 曾担任软件公司的**全栈开发工程师**
-- 四川轻化工大学（SUSE）**计算机科学与技术专业本科生**
-- 曾获 AI 与创新创业竞赛奖项，包括 **AdventureX 赛道一等奖、国家一等奖与国家三等奖**
-- 联系我：[freezingm2020@outlook.com](mailto:freezingm2020@outlook.com)
-
----
-
-## 精选项目
+### 01 / 正在做的产品
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/WHaoxM/cpa-agent">cpa-agent</a></h3>
-      <p>面向大学生的开源多智能体职业规划平台。</p>
-      <p><img alt="Multi-Agent" src="https://img.shields.io/badge/Multi--Agent-B9D99A?style=flat-square&amp;labelColor=1C1B1B"></p>
-      <p><sub>产品设计 · Agent 架构 · 后端工程</sub></p>
-      <p><code>Python</code> <code>Flask</code> <code>LangGraph</code> <code>MySQL</code> <code>Milvus</code> <code>Neo4j</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/toMeetADX/TOMEET_Backend">ToMeet</a></h3>
-      <p>通过持续对话理解用户，并将线上交流转化为真实连接的 AI 社交 Agent。</p>
-      <p><img alt="Agent" src="https://img.shields.io/badge/Agent-C4E2FB?style=flat-square&amp;labelColor=1C1B1B"></p>
-      <p><sub>对话式 Agent · 社交匹配 · Hackathon 项目</sub></p>
-      <p><strong>AdventureX 2026 · Photon 赛道一等奖</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>文数智旅</h3>
-      <p>探索 AI 与数字文旅融合的智能文旅项目，为用户提供更智能、个性化的旅行与文化体验。</p>
-      <p><img alt="AI Product" src="https://img.shields.io/badge/AI%20Product-F6D990?style=flat-square&amp;labelColor=1C1B1B"></p>
-      <p><sub>AI 应用 · 智慧文旅 · 智能旅行</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>GoMindOS</h3>
-      <p>专为四足机器狗设计的轻量级 Agentic Robotics 操作与编排框架。</p>
-      <p><img alt="Embodied AI" src="https://img.shields.io/badge/Embodied%20AI-C9C5FF?style=flat-square&amp;labelColor=1C1B1B"></p>
-      <p><sub>轻量级 AgentOS · 四足机器人 · 具身智能 Agent</sub></p>
-      <p>聚焦机器狗场景下的感知、决策、动作执行与 Agent 编排。</p>
-      <p><code>Python</code> <code>AgentOS</code> <code>VLA</code> <code>Robotics</code></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/trace.svg" alt="Trace — 人与 Agent 协作" width="100%">
+<p>探索人与 Agent 的持续协作，让思考、知识与工作围绕同一件事连接起来，支持非线性的探索、交接与接续。</p>
+<sub>思考 · 协作 · 探索中</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/WHaoxM/cpa-agent"><img src="./assets/cpa.svg" alt="CPA-Agent 职导星图 — AI 职业规划产品" width="100%"></a>
+<p>面向大学生职业规划的多智能体产品，连接能力画像、人岗匹配与职业发展。目前已有客户使用，并进入付费阶段。</p>
+<a href="https://github.com/WHaoxM/cpa-agent">项目仓库 ↗</a> &nbsp; · &nbsp; <a href="https://whaoxm.github.io/cpa-xingtu/">前端演示 ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/toMeetADX/TOMEET_Backend"><img src="./assets/tomeet.svg" alt="ToMeet — 社交 Agent" width="100%"></a>
+<p>一个可以长期对话的社交 Agent，通过持续了解与互动反馈，帮助人建立连接。</p>
+<a href="https://github.com/toMeetADX/TOMEET_Backend">项目仓库 ↗</a> &nbsp; · &nbsp; <sub>AdventureX 2026 · Photon 赛道一等奖</sub>
+</td>
+<td width="50%" valign="top">
+<img src="./assets/gomind.svg" alt="GoMindOS — 面向足式和轮式机器人的具身智能系统" width="100%">
+<p>面向足式和轮式机器人的具身智能系统，探索 AI Agent 与真实环境、感知、决策和行动的连接。</p>
+<sub>机器人 · 具身智能</sub>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://www.zhilvtravel.com/"><img src="./assets/travel.svg" alt="文数智旅 — AI 文旅产品" width="100%"></a>
+<p>面向旅行社的 AI 文旅产品，聚焦入境游，探索从海外获客到智能承接与业务成交的服务链路。</p>
+<a href="https://www.zhilvtravel.com/">访问官网 ↗</a>
+</td>
+</tr>
 </table>
 
-## 竞赛与荣誉
+### 02 / 科研
+
+持续开展机器学习研究，在具体问题中打磨算法与模型能力。
+
+- [**FACDNet: A Frequency-Aware Cross-Layer Network for Remote Sensing Change Detection**](https://www.mdpi.com/2079-9292/15/11/2416) — *Electronics*，2026。
+- 另有一篇第一作者会议论文投稿中。
+
+### 03 / 竞赛与荣誉
 
 - 🏆 **AdventureX 2026** — Photon 赛道一等奖
 - 🥇 **全球校园人工智能算法精英大赛** — 国家一等奖
 - 🥉 **中国大学生服务外包创新创业大赛** — 国家三等奖
 
-## 研究方向
+### 04 / 关于我
 
-- **具身智能 & Vision-Language-Action（VLA）**
-- **AgentOS & Agentic Robotics**
-- **多智能体系统 & LLM Agents**
+- **OPC Builder**，探索 AI Native 产品与创业。
+- **AI Lab 具身智能研究成员**，探索 Vision-Language-Action（VLA）与 AgentOS。
+- 曾担任软件公司的**全栈开发工程师**。
+- 四川轻化工大学（SUSE）**计算机科学与技术专业本科生**。
+- 持续打磨产品审美、交付质量与优雅简洁的代码。
 
-## 技术栈
+**关注方向** &nbsp; AI 产品 · Agents · 具身智能 · 机器学习
 
-<div align="center">
+**语言与工具** &nbsp; Python · Java · Flask · FastAPI · PyTorch · MySQL · PostgreSQL · Redis · Docker · Git · Linux · VS Code · HTML · CSS · JavaScript · TypeScript
 
-[![Skills](https://skillicons.dev/icons?i=py,java,flask,fastapi,pytorch,mysql,postgres,redis,docker,git,linux,vscode,html,css,js,ts)](https://skillicons.dev)
-
-</div>
+**联系我** &nbsp; [freezingm2020@outlook.com](mailto:freezingm2020@outlook.com)

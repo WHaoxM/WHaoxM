@@ -1,83 +1,70 @@
-<p align="right">
-  <strong>English</strong>
-  ·
-  <a href="./README_ZH.md">简体中文</a>
-</p>
+<p align="right"><strong>English</strong> · <a href="./README_ZH.md">简体中文</a></p>
 
-<div align="center">
+![NeuTronM — AI Builder: building products, exploring intelligence, refining the craft.](./assets/hero.svg)
 
-# Hi, I'm **NeuTronM** — you can call me **Neu** 👋
+I’m **NeuTronM**, or **Neu**. I build AI products and agents, and explore embodied intelligence, machine learning, and entrepreneurship. I want to turn ideas into products people can actually use.
 
-### Developer · ML Learner · Embodied AI Researcher · Builder of Cool Stuff
+I’m also continuing research in algorithms and models, while refining my eye for design, taking responsibility for the details of delivery, and learning to write simpler, more elegant code.
 
-[![NeuTronM](https://avatars.githubusercontent.com/u/175631749?u=094d7d315dab638969ba5cc8ee170f273cb942ab&v=4&size=96)](https://github.com/whaoxm)
-
-</div>
-
-I enjoy turning ideas into useful products, from product design and system architecture to implementation and deployment.
-
-- **OPC (One-Person Company) builder** focused on AI-native products
-- Embodied AI researcher at **AI Lab**, exploring **Vision-Language-Action (VLA)** and **AgentOS**
-- Former **full-stack developer** at a software company
-- **Computer Science undergraduate** at Sichuan University of Science & Engineering (SUSE)
-- Award recipient in AI and innovation competitions, including the **AdventureX track championship**, a **National First Prize**, and a **National Third Prize**
-- Contact: [freezingm2020@outlook.com](mailto:freezingm2020@outlook.com)
-
----
-
-## Featured Projects
+### 01 / SELECTED WORK
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/WHaoxM/cpa-agent">cpa-agent</a></h3>
-      <p>An open-source multi-agent career-planning platform for university students.</p>
-      <p><img alt="Multi-Agent" src="https://img.shields.io/badge/Multi--Agent-B9D99A?style=flat-square&amp;labelColor=1C1B1B"></p>
-      <p><sub>Product design · Agent architecture · Backend engineering</sub></p>
-      <p><code>Python</code> <code>Flask</code> <code>LangGraph</code> <code>MySQL</code> <code>Milvus</code> <code>Neo4j</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/toMeetADX/TOMEET_Backend">ToMeet</a></h3>
-      <p>A conversational social agent that turns ongoing dialogue into real-world connections.</p>
-      <p><img alt="Agent" src="https://img.shields.io/badge/Agent-C4E2FB?style=flat-square&amp;labelColor=1C1B1B"></p>
-      <p><sub>Conversational agent · Social matching · Hackathon project</sub></p>
-      <p><strong>AdventureX 2026 · First Prize in the Photon Track</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>文数智旅</h3>
-      <p>An AI-powered cultural-tourism project exploring intelligent travel services and digital cultural experiences.</p>
-      <p><img alt="AI Product" src="https://img.shields.io/badge/AI%20Product-F6D990?style=flat-square&amp;labelColor=1C1B1B"></p>
-      <p><sub>AI application · Cultural tourism · Intelligent travel</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>GoMindOS</h3>
-      <p>A lightweight agentic operating system designed for quadruped robots.</p>
-      <p><img alt="Embodied AI" src="https://img.shields.io/badge/Embodied%20AI-C9C5FF?style=flat-square&amp;labelColor=1C1B1B"></p>
-      <p><sub>Lightweight AgentOS · Quadruped robotics · Embodied agents</sub></p>
-      <p>Focused on perception, decision-making, action execution, and agent orchestration for robotic dogs.</p>
-      <p><code>Python</code> <code>AgentOS</code> <code>VLA</code> <code>Robotics</code></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/trace.svg" alt="Trace — human and agent collaboration" width="100%">
+<p>Exploring continuous human–agent collaboration: connecting thinking, knowledge, and work around the same subject, with room for non-linear exploration and continuation.</p>
+<sub>THINKING · COLLABORATION · EXPLORING</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/WHaoxM/cpa-agent"><img src="./assets/cpa.svg" alt="CPA-Agent — AI career planning product" width="100%"></a>
+<p>A multi-agent career-planning product for university students, connecting capability profiles, job matching, and career development. Already used by customers and in the paid stage.</p>
+<a href="https://github.com/WHaoxM/cpa-agent">Repository ↗</a> &nbsp; · &nbsp; <a href="https://whaoxm.github.io/cpa-xingtu/">Frontend demo ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/toMeetADX/TOMEET_Backend"><img src="./assets/tomeet.svg" alt="ToMeet — social agent" width="100%"></a>
+<p>A social agent that gets to know users through ongoing conversation and helps people form connections, learning from feedback along the way.</p>
+<a href="https://github.com/toMeetADX/TOMEET_Backend">Repository ↗</a> &nbsp; · &nbsp; <sub>AdventureX 2026 · Photon Track First Prize</sub>
+</td>
+<td width="50%" valign="top">
+<img src="./assets/gomind.svg" alt="GoMindOS — embodied AI for legged and wheeled robots" width="100%">
+<p>An embodied intelligence system for legged and wheeled robots, exploring how AI agents connect real-world perception, decision-making, and action.</p>
+<sub>ROBOTICS · EMBODIED AI</sub>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://www.zhilvtravel.com/"><img src="./assets/travel.svg" alt="Zhilv Travel — AI and travel" width="100%"></a>
+<p>An AI travel product for travel agencies focused on inbound tourism, exploring the journey from overseas customer acquisition to intelligent service and business conversion.</p>
+<a href="https://www.zhilvtravel.com/">Official website ↗</a>
+</td>
+</tr>
 </table>
 
-## Hackathons & Competitions
+### 02 / RESEARCH
 
-- 🏆 **AdventureX 2026** — First Prize in the Photon Track
+Research helps me build a deeper foundation in machine learning, algorithms, and models.
+
+- [**FACDNet: A Frequency-Aware Cross-Layer Network for Remote Sensing Change Detection**](https://www.mdpi.com/2079-9292/15/11/2416) — *Electronics*, 2026.
+- A first-author conference paper is currently under submission.
+
+### 03 / HACKATHONS & COMPETITIONS
+
+- 🏆 **AdventureX 2026** — First Prize, Photon Track
 - 🥇 **Global Campus Artificial Intelligence Algorithm Elite Competition** — National First Prize
 - 🥉 **China Undergraduate Service Outsourcing Innovation & Entrepreneurship Competition** — National Third Prize
 
-## Research Interests
+### 04 / ABOUT & PRACTICE
 
-- **Embodied AI & Vision-Language-Action (VLA)**
-- **AgentOS & agentic robotics**
-- **Multi-agent systems & LLM agents**
+- **OPC Builder** exploring AI-native products and entrepreneurship.
+- **Embodied AI research member at AI Lab**, exploring Vision-Language-Action (VLA) and AgentOS.
+- Former **full-stack developer** at a software company.
+- **Computer Science undergraduate** at Sichuan University of Science & Engineering (SUSE).
+- Working on product taste, thoughtful delivery, and elegant, simple code.
 
-## Languages & Tools
+**Interests** &nbsp; AI Products · Agents · Embodied AI · Machine Learning
 
-<div align="center">
+**Languages & tools** &nbsp; Python · Java · Flask · FastAPI · PyTorch · MySQL · PostgreSQL · Redis · Docker · Git · Linux · VS Code · HTML · CSS · JavaScript · TypeScript
 
-[![Skills](https://skillicons.dev/icons?i=py,java,flask,fastapi,pytorch,mysql,postgres,redis,docker,git,linux,vscode,html,css,js,ts)](https://skillicons.dev)
-
-</div>
+**Contact** &nbsp; [freezingm2020@outlook.com](mailto:freezingm2020@outlook.com)
